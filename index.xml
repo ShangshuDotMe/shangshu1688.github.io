@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>Posts</title>
+      <link>https://www.shangshu.me/post/</link>
+      <pubDate>Tue, 01 Oct 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://www.shangshu.me/post/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
       <title>关于</title>
       <link>https://www.shangshu.me/about/</link>
       <pubDate>Tue, 01 Oct 2019 12:00:00 +0000</pubDate>
@@ -32,14 +43,14 @@
 
 &lt;h3 id=&#34;我的兴趣爱好&#34;&gt;我的兴趣爱好&lt;/h3&gt;
 
-&lt;p&gt;读书、看电影、玩游戏等。&lt;/p&gt;
+&lt;p&gt;读书、学习、看电影、玩游戏等。&lt;/p&gt;
 
 &lt;h3 id=&#34;我的教育经历&#34;&gt;我的教育经历&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;2015.9 - 2016.7 幼儿园小班，郑州市&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2016.9 - 2017.7 幼儿园中班，郑州市&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2017.9 - 2018.7 幼儿园大班，郑州市&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2015.9 - 2016.7 幼小班，郑州市&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2016.9 - 2017.7 幼中班，郑州市&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2017.9 - 2018.7 幼大班，郑州市&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;2018.9 - 2019.7 学前班，郑州市&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;2019.9 - &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 一年级，郑州市&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -85,24 +96,13 @@
       <guid>https://www.shangshu.me/links/</guid>
       
         <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.google.com&#34;&gt;Google&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.bing.com&#34;&gt;Bing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.baidu.com&#34;&gt;Baidu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com&#34;&gt;谷歌 Google&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bing.com&#34;&gt;必应 Bing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.baidu.com&#34;&gt;百度 Baidu&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;!-- more --&gt;
 </description>
-      
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://www.shangshu.me/post/</link>
-      <pubDate>Mon, 30 Sep 2019 01:42:52 +0800</pubDate>
-      
-      <guid>https://www.shangshu.me/post/</guid>
-      
-        <description></description>
       
     </item>
     

@@ -1,5 +1,6 @@
 $(document).ready(function() {
   $("img[usemap]").rwdImageMaps();
+  $("img[usemap]").maphilight();
 })
 
 /*
