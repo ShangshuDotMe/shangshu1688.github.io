@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>尚书的自留地</title>
-    <link>http://192.168.1.10/</link>
+    <link>https://www.shangshu.me/</link>
     <description>Recent content on 尚书的自留地</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 01 Oct 2019 12:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://192.168.1.10/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.shangshu.me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Posts</title>
-      <link>http://192.168.1.10/post/</link>
+      <link>https://www.shangshu.me/post/</link>
       <pubDate>Tue, 01 Oct 2019 12:00:00 +0000</pubDate>
       
-      <guid>http://192.168.1.10/post/</guid>
+      <guid>https://www.shangshu.me/post/</guid>
       
         <description></description>
       
@@ -24,10 +24,10 @@
     
     <item>
       <title>关于</title>
-      <link>http://192.168.1.10/about/</link>
+      <link>https://www.shangshu.me/about/</link>
       <pubDate>Tue, 01 Oct 2019 12:00:00 +0000</pubDate>
       
-      <guid>http://192.168.1.10/about/</guid>
+      <guid>https://www.shangshu.me/about/</guid>
       
         <description>
 
@@ -137,10 +137,10 @@
     
     <item>
       <title>赞赏记录</title>
-      <link>http://192.168.1.10/reward-history/</link>
+      <link>https://www.shangshu.me/reward-history/</link>
       <pubDate>Tue, 01 Oct 2019 12:00:00 +0000</pubDate>
       
-      <guid>http://192.168.1.10/reward-history/</guid>
+      <guid>https://www.shangshu.me/reward-history/</guid>
       
         <description>&lt;p&gt;目前尚无赞赏记录。&lt;/p&gt;
 </description>
@@ -149,10 +149,10 @@
     
     <item>
       <title>链接</title>
-      <link>http://192.168.1.10/links/</link>
+      <link>https://www.shangshu.me/links/</link>
       <pubDate>Tue, 01 Oct 2019 12:00:00 +0000</pubDate>
       
-      <guid>http://192.168.1.10/links/</guid>
+      <guid>https://www.shangshu.me/links/</guid>
       
         <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.google.com&#34;&gt;谷歌 Google&lt;/a&gt;&lt;/li&gt;
