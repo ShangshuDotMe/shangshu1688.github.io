@@ -5,10 +5,10 @@
 }
 
 .social-share {
-  margin-top: 25px;
+  margin-top: 5px;
   padding-top: 20px;
+  border-top: 1px dashed #e6e6e6;
   text-align: center;
-  /* border-top: 1px dashed #e6e6e6; */
   font-family: "socialshare" !important;
   font-size: 16px;
   font-style: normal;

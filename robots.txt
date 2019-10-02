@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://www.shangshu.me/sitemap.xml
+Sitemap: http://192.168.1.10/sitemap.xml
